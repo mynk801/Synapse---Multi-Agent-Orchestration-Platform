@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Agent Orchestration",
+  "description": "A full-stack workflow orchestrator tracking AI agents collaborating on complex tasks in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
